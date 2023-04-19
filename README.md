@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 # 👨‍💻 About me
-I am a PhD student at the University of Zaragoza (Sapin) working on edge implementation of Neural Networks. So far I've been working with FPGAs, but also I am interested on low-end CPU and GPU implementation.
+I am a PhD student at the University of Zaragoza (Spain) working on edge implementation of Neural Networks. So far I've been working with FPGAs, but also I am interested on low-end CPU and GPU implementation.
 
 # 💾 Code you can find here
 In this profile you can find some personal projects and some of my research work. Below you can find a list of the most relevant repositories.
