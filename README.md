@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+
+# 👩‍💻 About me
+I am a PhD student at the University of Zaragoza (Sapin) working on edge implementation of Neural Networks. So far I've been working with FPGAs, but also I am interested on low-end CPU and GPU implementation.
+
+# 📫 How to reach me
+You can find my website, all my social media and research identifiers in the following icons.
 
 <!--
 **eneriz-daniel/eneriz-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
